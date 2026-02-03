@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Logan Bruesehoff and I currently live in Minneapolis, Minnesota
-- 🌱 I’m currently a web developer using React and Angular! 
+- 👋 Hi
+- 🌱 Senior frontend developer using React and Angular
 - 📫 Intrested in reaching me? You can email me at lbruesehoff@gmail.com
 
 <!---
